@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fortune-teller/static/css/main.81e6fef5.chunk.css",
+    "main.js": "/fortune-teller/static/js/main.be2f4d8c.chunk.js",
+    "main.js.map": "/fortune-teller/static/js/main.be2f4d8c.chunk.js.map",
+    "runtime~main.js": "/fortune-teller/static/js/runtime~main.deeac6df.js",
+    "runtime~main.js.map": "/fortune-teller/static/js/runtime~main.deeac6df.js.map",
+    "static/js/2.6f4f9af9.chunk.js": "/fortune-teller/static/js/2.6f4f9af9.chunk.js",
+    "static/js/2.6f4f9af9.chunk.js.map": "/fortune-teller/static/js/2.6f4f9af9.chunk.js.map",
+    "index.html": "/fortune-teller/index.html",
+    "precache-manifest.3f19a41e4f5f8e7d778eb2671d928180.js": "/fortune-teller/precache-manifest.3f19a41e4f5f8e7d778eb2671d928180.js",
+    "service-worker.js": "/fortune-teller/service-worker.js",
+    "static/css/main.81e6fef5.chunk.css.map": "/fortune-teller/static/css/main.81e6fef5.chunk.css.map"
+  }
+}
